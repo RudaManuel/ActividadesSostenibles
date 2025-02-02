@@ -32,3 +32,4 @@
 
 **Imágenes**
 - [Microsoft Copilot](https://copilot.microsoft.com/)
+- [Microsoft Designer](https://designer.microsoft.com/)
