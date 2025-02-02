@@ -1,1 +1,28 @@
+## 📚 Referencias
 
+**Modelo Actual de Producción y Consumo**
+
+
+**Economía Verde y Economía Circular**
+
+
+**Evaluación de Impactos Ambientales**
+
+
+**Ecodiseño Aplicado al Sistema Productivo**
+
+
+**Estrategias Sostenibles en Actividades Productivas**
+
+
+**Análisis del Ciclo de Vida del Producto**
+
+
+**Procesos de Producción Sostenibles**
+
+
+**Marco Normativo Ambiental**
+
+
+**Mapa Conceptual**
+- [Draw.io](https://www.drawio.com/)
