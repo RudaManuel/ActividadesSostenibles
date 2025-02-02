@@ -24,5 +24,8 @@
 **Marco Normativo Ambiental**
 
 
+**Glosario**
+- [ChatGPT](https://chatgpt.com/)
+
 **Mapa Conceptual**
 - [Draw.io](https://www.drawio.com/)
