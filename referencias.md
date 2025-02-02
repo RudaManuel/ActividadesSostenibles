@@ -29,3 +29,6 @@
 
 **Mapa Conceptual**
 - [Draw.io](https://www.drawio.com/)
+
+**Imágenes**
+- [Microsoft Copilot](https://copilot.microsoft.com/)
