@@ -2,7 +2,7 @@
 
 _Un trabajo sobre las Actividades Sostenobles_
 
-<img src="img/actividades-sostenibles.jpg" alt="act_sost" width="1200" height="500">
+<img src="img/actividades_sostenibles.png" alt="act_sost" width="1200" height="500">
 
 ---
 
